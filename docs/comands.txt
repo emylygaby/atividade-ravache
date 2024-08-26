@@ -1,0 +1,2 @@
+criar o data_base
+create database api-node;
